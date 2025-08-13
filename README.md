@@ -36,3 +36,11 @@ built using **Java Servlets, JSP, and JDBC**.
 
 ## 📂 Project Structure
 
+Bank-Management-System/
+│
+├── *.java # Servlet classes for business logic
+├── *.jsp # Frontend JSP pages
+├── DBUtil.java # Database connection utility
+├── README.md # Project documentation
+└── .gitignore # Ignore unnecessary files
+
